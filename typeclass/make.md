@@ -27,8 +27,11 @@
   ----
 
   \*Authors' address: Department of Computing Science, University of Glasgow, Glasgow G12 8QQ), Scotland.
+
   Electronic mail: wadler, blott@cs.glasgow .ac.uk.
+
   Published in: 16'th ACM Symposium on Principles of Programming Languages, Austin, Texas, January 1989.
+
   Permission to copy without fee all or part of this material is granted provided that the copies are not made or distributed for direct commercial advantage, the ACM copyright notice and the title of the publication and its date appear, and notice is given that copying is by permission of the Association for Computing Machinery.
   To copy otherwise, or to republish, requires a fee and/or specific permission.
 
